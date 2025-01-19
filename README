@@ -18,9 +18,6 @@ Esta fase inicial se centra en la preparación de los datos, abordando valores f
 Fase 2: Visualización de Datos 🔍
 En esta etapa, se crean visualizaciones informativas para responder a preguntas clave sobre los datos y patrones de comportamiento de los clientes. Por ejemplo, vemos cuántos vuelos se reservan cada mes, cómo se relacionan la distancia de los vuelos y los puntos de fidelidad, y cómo varían los salarios promedio según el nivel educativo.
 
-![alt text](image-1.png)
-
-C:\Users\Usuario01\Desktop\AADALAB\modulo 3\Evaluación_3_Mónica\image.png
 
 Fase 3: Análisis Descriptivo y Pruebas A/B 📊
 Esta fase culminante involucra la realización de un análisis descriptivo de los datos y la aplicación de un A/B Testing para evaluar si las diferencias en el número de vuelos reservados entre los diferentes niveles educativos son estadísticamente significativas.

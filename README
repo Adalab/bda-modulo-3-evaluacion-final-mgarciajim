@@ -1,13 +1,13 @@
 
-# Evaluación Final del Módulo 3 
+####Evaluación Final del Módulo 3#### 
 
 Análisis de Datos de Clientes de Aerolíneas
 
-## Descripción 📌
+Descripción 📌
 
 Este proyecto documenta un análisis exhaustivo de datos de clientes y sus reservas de vuelos, realizado como parte de una evaluación del Módulo 3 de Data Analytics de Adalab. El objetivo principal es determinar si existen diferencias significativas en el comportamiento de reserva de vuelos entre clientes con diferentes niveles educativos.
 
-## Estructura del Proyecto 📎
+Estructura del Proyecto 📎
 
 El análisis se divide en tres fases principales
 
@@ -24,7 +24,7 @@ En esta etapa, se crean visualizaciones informativas para responder a preguntas 
 Fase 3: Análisis Descriptivo y Pruebas A/B 📊
 Esta fase culminante involucra la realización de un análisis descriptivo de los datos y la aplicación de un A/B Testing para evaluar si las diferencias en el número de vuelos reservados entre los diferentes niveles educativos son estadísticamente significativas.
 
-## Tecnologías Utilizadas ⚒️
+Tecnologías Utilizadas ⚒️
 
 Las principales en esta evaluación son;
 
@@ -33,7 +33,7 @@ Jupyter Notebooks: es un entorno para crear y compartir documentos con código e
 
 Lenguaje de Programación: Python 3.11.8
 
-## Bibliotecas 📚
+Bibliotecas 📚
 
 Pandas para manipulación y análisis de datos.
 NumPy para operaciones numéricas.
@@ -41,23 +41,23 @@ Matplotlib y Seaborn para visualizaciones.
 SciPy para análisis estadísticos.
 scikit-learn para imputación de valores faltantes (SimpleImputer, KNNImputer, IterativeImputer).
 
-## Conceptos Clave ✔️
+Conceptos Clave ✔️
 
 Imputación de datos ausentes.
 Visualización de datos.
 Pruebas estadísticas (A/B Testing).
 Procesos ETL básicos.
 
-## Objetivo 💪🏻
+Objetivo 💪🏻
 
 Demostrar las habilidades en el análisis de datos mediante la aplicación de técnicas de limpieza, visualización y pruebas estadísticas. Se busca evaluar la capacidad de utilizar los datos para responder preguntas de negocio relevantes, utilizando procesos ETL básicos. La evaluación en general busca demostrar la comprensión de las técnicas de análisis de datos necesarias para aplicar en el mundo real.
 
-## Datos 📝
+Datos 📝
 
 Customer Loyalty History.csv: Contiene información sobre el historial de lealtad de los clientes.
 Customer Flight Activity.csv: Contiene información sobre la actividad de vuelos de los clientes.
 
-## Contacto 📞
+Contacto 📞
 
 Para cualquier consulta o comentario, no dudes en contactarme
 
